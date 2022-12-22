@@ -13,6 +13,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<button class="btn btn-primary" id="add"><span class="glyphicon glyphicon-plus"></span> Add Employe</button>
+			<a href="<?php echo base_url(); ?>user/logout" class="btn btn-danger">Logout</a>
 			<table class="table table-bordered table-striped" style="margin-top:20px;">
 				<thead>
 					<tr>
